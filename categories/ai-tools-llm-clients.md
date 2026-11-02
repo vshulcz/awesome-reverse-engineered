@@ -369,6 +369,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [ChatMock](https://github.com/RayBytes/ChatMock) | OpenAI-compatible API served from a ChatGPT subscription via Codex auth | 1,564 | 🟢 | Python |
 | [cursor-reset](https://github.com/ultrasev/cursor-reset) | Resets Cursor's device identification to work around trial restrictions | 1,514 | 🟡 | Python |
 | [openai-oauth](https://github.com/EvanZhouDev/openai-oauth) | Local proxy that reuses Codex CLI ChatGPT OAuth tokens as an OpenAI-compatible API | 1,420 | 🟢 | TypeScript |
+| [deja-vu](https://github.com/vshulcz/deja-vu) | Reverse-engineered session format parsers and schema registry for 44 coding agents (Cursor state.vscdb, Windsurf .pb, Codex .jsonl.zst, Claude Code, Antigravity, Zed, Kiro) with local BM25 search and MCP server | 1,369 | 🟢 | Go |
 | [Kiro-Go](https://github.com/Quorinex/Kiro-Go) | Converts Kiro accounts into OpenAI/Anthropic APIs with pooling and streaming | 1,211 | 🟢 | Go |
 | [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI widgets reverse engineered and rebuilt for the pi agent | 1,173 | 🟢 | TypeScript |
 | [copilot-api](https://github.com/caozhiyuan/copilot-api) | GitHub Copilot and Codex gateway exposing OpenAI/Anthropic-compatible APIs | 1,108 | 🟢 | TypeScript |
